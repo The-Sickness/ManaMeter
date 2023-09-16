@@ -21,6 +21,7 @@ FEATURES:
 6. There is also an option to where once you hit the mana threshold a message will be displayed in Instance Chat. There are 5 messages to choose from, and this too can be enabled/disabled. 
 
 7. This addon also has Data Broker support.
+![ManaBar](https://github.com/The-Sickness/ManaMeter/assets/5657780/744a7112-ad92-4e56-a02e-986204b6f656)
 
  
 
