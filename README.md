@@ -21,8 +21,15 @@ FEATURES:
 6. There is also an option to where once you hit the mana threshold a message will be displayed in Instance Chat. There are 5 messages to choose from, and this too can be enabled/disabled. 
 
 7. This addon also has Data Broker support.
-![ManaBar](https://github.com/The-Sickness/ManaMeter/assets/5657780/744a7112-ad92-4e56-a02e-986204b6f656)
 
- 
 
 If anyone wants to know how to change any of the messages or sounds let me know in the comments and I will post how to do it. I also know that there is probably a WeakAura that may do all of this, but not everyone uses that addon and may just want a standalone addon.
+
+![ManaBar](https://github.com/The-Sickness/ManaMeter/assets/5657780/744a7112-ad92-4e56-a02e-986204b6f656)
+
+![Sounds](https://github.com/The-Sickness/ManaMeter/assets/5657780/6fc1b7f4-be8b-498c-9f55-b3ebbc72319d)
+
+![Oreintation](https://github.com/The-Sickness/ManaMeter/assets/5657780/750d4848-7560-422c-9311-1b49ec7bd69d)
+
+![Options](https://github.com/The-Sickness/ManaMeter/assets/5657780/7861953e-b348-4cfb-b3bf-41b59ccec7c0)
+
